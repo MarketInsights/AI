@@ -1,0 +1,80 @@
+<script>
+const GH_API_URL = 'https://api.github.com/repos/insightforum/blog/issues/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
+
+let request = new XMLHttpRequest();
+request.open( 'GET', GH_API_URL, true );
+request.onload = function() {
+	if ( this.status >= 200 && this.status < 400 ) {
+		let response = JSON.parse( this.response );
+
+		for ( var i = 0; i < response.length; i++ ) {
+			document.getElementById( 'gh-comments-list' ).appendChild( createCommentEl( response[ i ] ) );
+		}
+
+		if ( 0 === response.length ) {
+			document.getElementById( 'no-comments-found' ).style.display = 'block';
+		}
+	} else {
+		console.error( this );
+	}
+};
+
+function createCommentEl( response ) {
+  
+  let authorInfo = document.createElement( 'div' );
+  authorInfo.classList.add( 'author-wrap' );
+
+  let author = document.createElement( 'div' );
+
+  let authorAvatar = document.createElement( 'img' );
+  authorAvatar.classList.add( 'avatar-img' );
+  authorAvatar.setAttribute( 'src', response.user.avatar_url);
+
+  author.appendChild( authorAvatar );
+
+  authorInfo.appendChild( author );
+
+  
+  
+  let commentAuthor= document.createElement( 'div' );
+
+  let authorName= document.createElement( 'p' );
+  authorName.classList.add( 'author-info' );
+  authorName.innerHTML = response.user.login ;
+  
+  commentAuthor.appendChild( authorName );
+  
+  let commentTime= document.createElement( 'p' );
+  commentTime.classList.add( 'author-info' );
+  commentTime.innerHTML = response.created_at;
+  
+  commentAuthor.appendChild( commentTime );
+  
+  authorInfo.appendChild( commentAuthor );
+
+
+  let commentContents = document.createElement( 'div' );
+  commentContents.classList.add( 'comment-content' );
+  commentContents.innerHTML = response.body;
+
+  let comment = document.createElement( 'li' );
+  comment.setAttribute( 'id', 'gh-comment-li' );
+
+
+  comment.appendChild( authorInfo );
+  comment.appendChild( commentContents );
+
+  return comment;
+	
+}
+
+request.send();
+</script>
+
+<hr>
+
+<div class="github-comments">
+	<h2>Comments</h2>
+	<ul id="gh-comments-list"></ul>
+	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/insightforum/blog/issues/{{ page.comments_id }}">this ticket</a>. Comments appear on this page insteantly.</p>
+</div>
