@@ -1,5 +1,5 @@
 <script>
-const GH_API_URL = 'https://api.github.com/repos/insightforum/blog/issues/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
+const GH_API_URL = 'https://github.com/MarketInsights/2020/tree/master/_posts/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
@@ -20,7 +20,7 @@ request.onload = function() {
 };
 
 function createCommentEl( response ) {
-  
+
   let authorInfo = document.createElement( 'div' );
   authorInfo.classList.add( 'author-wrap' );
 
@@ -34,22 +34,22 @@ function createCommentEl( response ) {
 
   authorInfo.appendChild( author );
 
-  
-  
+
+
   let commentAuthor= document.createElement( 'div' );
 
   let authorName= document.createElement( 'p' );
   authorName.classList.add( 'author-info' );
   authorName.innerHTML = response.user.login ;
-  
+
   commentAuthor.appendChild( authorName );
-  
+
   let commentTime= document.createElement( 'p' );
   commentTime.classList.add( 'author-info' );
   commentTime.innerHTML = response.created_at;
-  
+
   commentAuthor.appendChild( commentTime );
-  
+
   authorInfo.appendChild( commentAuthor );
 
 
@@ -65,7 +65,7 @@ function createCommentEl( response ) {
   comment.appendChild( commentContents );
 
   return comment;
-	
+
 }
 
 request.send();
@@ -76,5 +76,5 @@ request.send();
 <div class="github-comments">
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
-	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/insightforum/blog/issues/{{ page.comments_id }}">this ticket</a>. Comments appear on this page insteantly.</p>
+	<p id="leave-a-comment">Join the discussion for this article on <a href="https://github.com/MarketInsights/2020/tree/master/_posts/{{ page.comments_id }}">this ticket</a>. Comments appear on this page insteantly.</p>
 </div>
