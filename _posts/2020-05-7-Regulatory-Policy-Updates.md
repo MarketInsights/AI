@@ -6,7 +6,7 @@ categories: Regulatory
 
 # Special Market Insight Report, Regulatory & Policy
 
-Futurewei issued a special report in April containing a collection of activities around inudustry regulatory and policy activities. Following is a list of articles in the report.  
+Futurewei issued a special report in April containing a collection of activities around inudustry regulatory and policy activities since the begining of 2020. Following is a list of articles in the report. Some information may be dated.
 
 POLICY (PUBLIC AND REGULATORY)
 Senate Hearing on 5G Supply Chain Security
