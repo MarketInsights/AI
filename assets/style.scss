@@ -213,7 +213,7 @@ strong, b {
 }
 
 img {
-  max-width: 50%;
+  max-width: 75%;
 }
 
 p > img {
@@ -258,7 +258,7 @@ p > img {
   border: 1px solid #ddd;
   border-radius: 4px;
   padding: 1px;
-  width: 50px;
+  width: 200px;
   border-radius: 50%;
   margin-right: 10px;
 }
@@ -636,11 +636,11 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: center;
 }
 
-#gh-comments-list{	
-  list-style-type: none;		
+#gh-comments-list{
+  list-style-type: none;
 }
 
 #gh-comment-li{
@@ -752,7 +752,7 @@ Modules - reusable parts of our design
   display: inline-block;
 }
 
-.pagination a {    
+.pagination a {
   &:hover {
       background-color: #f1f1f1;
       color: #333;
