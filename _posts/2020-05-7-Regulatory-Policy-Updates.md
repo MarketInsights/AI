@@ -12,7 +12,7 @@ Futurewei issued a special report in April containing a collection of activities
 #### FCC Order on 6GHz Still Likely at April Meeting
 #### Delays in Regulatory Proceedings
 #### White House 5G Security Report Lacks Substance
-#### Secure 5G and Beyond Becomes Law 
+#### Secure 5G and Beyond Becomes Law
 #### USG Investment in Nokia & Ericsson is a Bad Idea
 #### USG Cybersecurity R&D Strategic Plan
 #### DOT Releases Automated Vehicles 4.0
@@ -26,5 +26,4 @@ Futurewei issued a special report in April containing a collection of activities
 #### U.S. Announces New Policy on SEP and FRAND
 #### FCC Proposal to Share 3.3-3.55GHz
 
-Note: The information contained in this report was derived from readily available materials from various public newsfeeds, media reports and individual
-websites.
+Note: The information contained in this report was derived from readily available materials from various public newsfeeds, media reports and individual websites.
