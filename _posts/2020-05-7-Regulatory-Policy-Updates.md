@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  Market Insights, April 2020
+title:  Special Market Insight Report, Regulatory & Policy
 categories: Regulatory
 excerpts: Provided is a collection of information pertaining to U.S. regulatory & policy initiatives since January 2020
 ---
-
-# Special Market Insight Report, Regulatory & Policy
 
 Futurewei issued a special report in April containing a collection of activities around inudustry regulatory and policy initiatives since the begining of 2020. Following is a list of articles in the [report](_posts/Market-Insights-SE1-March2020.pdf). Some information may be dated.
 
