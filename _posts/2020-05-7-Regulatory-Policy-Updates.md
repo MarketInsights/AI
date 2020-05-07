@@ -5,7 +5,7 @@ categories: Regulatory
 excerpts: Provided is a collection of information pertaining to U.S. regulatory & policy initiatives since January 2020
 ---
 
-Futurewei issued a special report in April containing a collection of activities around inudustry regulatory and policy initiatives since the begining of 2020. Following is a list of articles in the [report](reports/Market-Insights-SE1-March2020.pdf). Some information may be dated.
+Futurewei issued a special report in April containing a collection of activities around inudustry regulatory and policy initiatives since the begining of 2020. Following is a list of articles in the [report](reports/Market-Insights-SE1-March2020.pdf). See: https://marketinsights.github.io/2020/reports/Market-Insights-SE1-March2020.pdf  Some information may be dated.
 
 #### Senate Hearing on 5G Supply Chain Security
 #### Promoting U.S. International Leadership in 5G Act
