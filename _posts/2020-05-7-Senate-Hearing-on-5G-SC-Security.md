@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Senate Hearing on 5G Supply Chain Security
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 Up until Congress shifted its focus on combating the coronavirus in mid-March, there was little to no shortage of aggression towards or discussions surrounding China and Huawei inside the DC beltway. Exemplifying the attacks on Huawei, on March 4, 2020, the U.S. Senate Committee on Commerce, Science, and Transportation held a hearing to assess “the security and integrity of the telecommunications supply chain” and to explore “the federal government’s role in mitigating risks to telecommunications equipment and services in the U.S. and abroad.”  

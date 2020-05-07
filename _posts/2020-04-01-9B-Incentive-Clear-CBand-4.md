@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DOT Releases Automated Vehicles 4.0
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 At the latest FCC Open Commission Meeting on February 28th, the FCC Commissions approved two critical proceedings related to the clearing of the C-Band and its associated auction.

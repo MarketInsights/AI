@@ -1,7 +1,7 @@
 ---
 layout: post
 title: White House 5G Security Report Said to Lack Substance
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 Although lost in the noise of other news, the U.S. White House recently released its latest national strategy entitled [“National Strategy to Secure 5G, March 2020”](https://www.whitehouse.gov/wp-content/uploads/2020/03/National-Strategy-5G-Final.pdf) which intends to expand on how the U.S. will secure 5G infrastructures domestically and abroad. Based on reviews from multiple expert, however, many have commented that the report is “thin” on details, lacks substance, and offers nothing new to the debate.  

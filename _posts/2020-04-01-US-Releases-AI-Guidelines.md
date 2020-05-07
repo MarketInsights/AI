@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S. Releases AI Guidelines
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 In Last February 2019, [Executive Order 13859](https://www.federalregister.gov/documents/2019/02/14/2019-02544/maintaining-american-leadership-in-artificial-intelligence), “Maintaining American Leadership in Artificial Intelligence” was released in effort to spur U.S. investment in Artificial Intelligence (AI).  Since then, federal agencies have been working towards the objectives and goals outlined within the Order to include the release of guidelines to advise on regulatory requirements.  As outlined in the Order, the Office of Management and Budget (OMB), in coordination with the Office of Science and Technology Policy (OSTP), the Domestic Policy Council (DPC), and the National Economic Council (NEC), was charged with providing guidance to federal agencies regarding the review and release of regulatory and nonregulatory requirements that aim to reduce barriers to the development and adoption of AI technologies.

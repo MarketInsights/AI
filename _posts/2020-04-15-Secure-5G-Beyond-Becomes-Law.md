@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Secure 5G and Beyond Becomes Law
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 Originally introduced in the U.S. Senate, [S.893, Secure 5G and Beyond Act of 2020](https://www.congress.gov/116/plaws/publ129/PLAW-116publ129.pdf) became law in late March 2020, less than one year after its introduction gaining strong bipartisan support.  

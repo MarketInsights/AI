@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Supply Chain Legislation
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 Despite expressed concerned from some U.S. telecom executives that they are likely to get “boxed in” with the U.S. Government’s (USG) actions to ban Chinese equipment deemed of threat to national security, representatives in the U.S. Congress is expected to restart talks shortly after the current impeachment trial to advance legislation on banning the future use of such equipment and are proposing funds to help operators remove existing equipment (“rip and replace”) from the U.S. networks.

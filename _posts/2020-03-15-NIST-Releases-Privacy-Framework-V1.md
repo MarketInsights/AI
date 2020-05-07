@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NIST Releases Privacy Framework V1.0
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 In January 2020, after nearly 18-months of development, NIST has released [Version 1.0](https://nam03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.nist.gov%2Fprivacy-framework%2Fprivacy-framework&data=02%7C01%7Ctimothy.jeffries%40futurewei.com%7C8665f56d7c25440f406908d79aae44a8%7C0fee8ff2a3b240189c753a1d5591fedc%7C1%7C0%7C637147945597405420&sdata=rlOa3UDi%2BOwRgiX8o1%2FNJZwoQ%2BAAi%2BVLrooT%2BcCJ4lU%3D&reserved=0) of the NIST Privacy Framework: A Tool for Improving Privacy through Enterprise Risk Management.  

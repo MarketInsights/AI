@@ -1,7 +1,7 @@
 ---
 layout: post
 title: USG Cybersecurity R&D Strategic Plan
-categories: Regulatory & Policy
+categories: Regulatory/Policy
 ---
 
 In December 2019, the U.S. National Science and Technology Council (“NSTC”) released its [“Federal Cybersecurity Research and Development Strategic Plan”](https://www.whitehouse.gov/wp-content/uploads/2019/12/Federal-Cybersecurity-RD-Strategic-Plan-2019.pdf) providing a guide to the overall direction of federally funded R&D work in cybersecurity.  
