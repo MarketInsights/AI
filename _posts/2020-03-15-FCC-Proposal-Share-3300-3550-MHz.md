@@ -2,6 +2,7 @@
 layout: post
 title: FCC Proposal to Share 3.3-3.55GHz
 categories: Regulatory/Policy
+comments_id: 1
 ---
 
 The FCC has finally submitted its Notice of Proposed Rulemaking ([NPRM](https://docs.fcc.gov/public/attachments/DOC-360941A1.pdf)), Facilitating Shared Use in the 3.1-3.55 GHz Band, for publication to the Federal Register whereby starting the clock for public comments.  Comments are due Feb. 21 with replies March 23.   
