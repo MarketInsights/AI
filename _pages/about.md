@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src="/images/Futurewei-logo2.png">
 
 This "blog" site is dedicated to ICT Market Insights. The information contained in the included blogs were derived from readily available materials including public newsfeeds, media reports and websites.
 Emphasis in these blogs, as you will see, is placed on the Regulatory & Policy environment. It is firmly beleived that the regulations enacted and the public and industry policies adopted will be the "gating" factor to the development and deployment of new innovated ICT technologies and services. Issues of relevance include new end-user demands and needs, national technological and policy strategies, disruptive technological development, new business model innovations and many other factors.
