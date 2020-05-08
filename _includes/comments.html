@@ -1,5 +1,5 @@
 <script>
-const GH_API_URL = 'https://api.github.com/repos//MarketInsights/2020/issues/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
+const GH_API_URL = 'https://api.github.com/repos//MarketInsights/2020/_posts/{{ page.comments_id }}/comments?client_id={{ site.data.settings.gh_api.ci }}&client_secret={{ site.data.settings.gh_api.cs }}';
 
 let request = new XMLHttpRequest();
 request.open( 'GET', GH_API_URL, true );
@@ -76,5 +76,5 @@ request.send();
 <div class="github-comments">
 	<h2>Comments</h2>
 	<ul id="gh-comments-list"></ul>
-	<p id="leave-a-comment">Join the discussion for this article on <a href="https://api.github.com/repos//MarketInsights/2020/issues/{{ page.comments_id }}">this ticket</a>. Comments appear on this page insteantly.</p>
+	<p id="leave-a-comment">Join the discussion for this article on <a href="https://api.github.com/repos//MarketInsights/2020/_posts/{{ page.comments_id }}">this ticket</a>. Comments appear on this page insteantly.</p>
 </div>
