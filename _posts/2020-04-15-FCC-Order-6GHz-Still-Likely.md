@@ -2,7 +2,7 @@
 layout: post
 title: FCC Order on 6GHz Still Likely at April Meeting
 categories: Regulatory/Policy
-comments_id: 11
+comments_id: 12
 ---
 
 The U.S. regulatory decision regarding the reallocation and sharing of the 6 GHz band with Wi-Fi services appears to be still on track for the FCC Commissioners’ meeting in April 2020, by which ending the 18-month global debate in the U.S., on what should happen in the 6 GHz band.

@@ -2,7 +2,7 @@
 layout: post
 title: USG Investment in Nokia & Ericsson is a Bad Idea
 categories: Regulatory/Policy
-comments_id: 14
+comments_id: 15
 ---
 
 Over the last several months, numerous reports have surfaced with respect to the U.S. Government’s (“USG”) possible investment in communication equipment vendors NOKIA and Ericsson as a means to combat Huawei and its global presence.
