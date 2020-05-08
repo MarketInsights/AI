@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Could COVID-19 Impact 5G Deployments?
-categories: COVID-19, Technology
+categories: COVID-19 Technology
 comments_id: 37
 ---
 
