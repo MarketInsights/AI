@@ -2,7 +2,7 @@
 layout: post
 title: Ongoing Challenges with 5.9GHz
 categories: Regulatory/Policy
-comments_id: 1
+comments_id: 3
 ---
 
 What ultimately happens in the current FCC 5.9 GHz proceeding remains to be seen with varying opinions readily available on the asking.  But in response to the FCC released, but yet published (to-date), “Use of the 5.850-5.925 GHz Band,” Notice of Proposed Rulemaking ([NPRM](https://docs.fcc.gov/public/attachments/FCC-19-129A1.pdf)), the Department of Transportation (DOT), has provided insights in to its preliminary technical [assessment](https://www.transportation.gov/sites/dot.gov/files/docs/research-and-technology/360181/oobe-energy-59-safety-band-final-120619.pdf) of the proceeding and has outlined its [concerns](https://www.transportation.gov/sites/dot.gov/files/docs/research-and-technology/359811/preliminary-technical-assessment-fcc-59-ghz-nprm-05dec2019-final.pdf) with the Commission’s proposal.   

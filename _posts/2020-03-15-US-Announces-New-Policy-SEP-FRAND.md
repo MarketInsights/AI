@@ -2,6 +2,7 @@
 layout: post
 title: U.S. Announces New Policy on SEP and FRAND
 categories: Regulatory/Policy
+comments_id: 5
 ---
 
 The Department of Justice (DOJ), United States Patent and Trademark Office (USPTO), and National Institute of Standards and Technology (NIST), recently issued a [joint statement](https://www.justice.gov/opa/pr/department-justice-united-states-patent-and-trademark-office-and-national-institute-standards) on remedies for Standard-Essential Patents (“SEP”) and fair, reasonable, and non-discriminatory (“FRAND”) terms.  As noted in the press release:

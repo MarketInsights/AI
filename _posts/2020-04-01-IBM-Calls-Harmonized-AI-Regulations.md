@@ -2,6 +2,7 @@
 layout: post
 title: IBM Calls for Harmonized AI Regulations
 categories: Regulatory/Policy
+comments_id: 7
 ---
 
 In January 2020, IBM announced the launched of its newest initiative, called “Policy Lab,” to help advise and guide policymakers on critical public policy issues. The Lab’s aim is to develop and advocate for policies towards enabling new technologies while meeting present and future demands.  One of the Lab’s high priorities is to create rules that eliminate bias in AI systems and plan to work in concert with standards-setting bodies and governments to this end.

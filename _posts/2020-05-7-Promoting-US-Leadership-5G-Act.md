@@ -2,6 +2,7 @@
 layout: post
 title: Promoting U.S. International Leadership in 5G Act
 categories: Regulatory/Policy
+comments_id: 20
 ---
 
 In the U.S. Government’s (USG) latest attempt to win the race to 5G and secure its leadership within the international standards community, two related pieces of legislation passed the House of Representatives (H.R.) in January 2020 and have made their way to the U.S. Senate for consideration.
