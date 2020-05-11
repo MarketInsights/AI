@@ -6,11 +6,6 @@ comments_id: 30
 ---
 
 
-#### Generic COVID-19 Stories
-Mike Pompeo issues a [statement](https://www.msn.com/en-us/news/world/us-says-concerned-by-threat-of-cyber-attack-against-czech-republic-healthcare/ar-BB12O0q9) saying that the US is concerned by the threat of cyber-attacks against the Czech Republic’s healthcare sector.
-
-A federal judge in Florida [ordered](https://www.msn.com/en-us/news/us/feds-go-after-self-described-florida-church-claiming-to-sell-covid-19-cure/ar-BB12NtqoAI) and the leaders of a self-described church to cease selling a bleaching agent it falsely claims will treat and prevent COVID-19.
-
 #### AI Related COVID-19 Uses
 
 The following is a collection of resources that demonstrate how AI is being used during the COVID-19 pandemic.

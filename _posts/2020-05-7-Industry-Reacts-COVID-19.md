@@ -19,10 +19,6 @@ The World Health Organization has teamed up with tech giants IBM, Oracle, and Mi
 
 [ABI Research](https://www.sdxcentral.com/articles/news/coronavirus-stunts-iot-insurgence/2020/04/) reports that delayed insurgence of IoT will have to wait as a global pandemic crushes many of the industries that could benefit from increased connectivity. The rapid reversal is significant because the convergence of 5G, networks especially suited for IoT, and device proliferation was expected to bolster the technology before the pandemic hit.
 
-## US consumer financial services: How COVID-19 is shaping attitudes
-
-At the heart of any economic outlook is consumer confidence. This [article](https://www.mckinsey.com/industries/financial-services/our-insights/us-consumer-financial-services-how-covid-19-is-shaping-attitudes?cid=eml-app) looks at a survey of US financial decision makers. It presents the data from the survey such as the time horizon, confidence, projected impact to savings, income etc.
-
 ## Big Tech Signs Rare Open Source Pledge to Boost Supplies During COVID-19
 
 A bottleneck to the mass production of critical goods, from antibody (or serology) tests to face masks, necessary to keep the public safe is copyright law. The [Open COVID Pledge](https://www.coindesk.com/big-tech-signs-rare-open-source-pledge-to-boost-supplies-during-covid) is an initiative to open source patents held by universities, companies and others to support the development of medicines, test kits, vaccines and contact tracing tools.
