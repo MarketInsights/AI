@@ -5,7 +5,6 @@ categories: Technology
 comments_id: 26
 ---
 
-
 PTC and Boston Consulting Group (BCG) surveyed more than 200 executives from companies using Internet of Things (IoT) and/or augmented reality (AR) solutions.
 Fifty percent of survey respondents have currently demonstrated the value of using IoT and AR, while more than eighty percent of the companies surveyed believe the technology will become the standard in their industry within five years.
 
