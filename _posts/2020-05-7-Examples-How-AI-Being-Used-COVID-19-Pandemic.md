@@ -2,7 +2,7 @@
 layout: post
 title:  Examples of How AI is Being Used in the COVID-19 Pandemic
 categories: COVID-19
-comments_id: 30
+comments_id: 5
 ---
 
 

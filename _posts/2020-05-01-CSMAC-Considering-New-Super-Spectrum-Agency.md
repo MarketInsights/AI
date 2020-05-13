@@ -2,7 +2,7 @@
 layout: post
 title: CSMAC Considering New Super Spectrum Agency
 categories: Regulatory/Policy
-comments_id: 17
+comments_id: 3
 ---
 
 The Commerce Spectrum Management Advisory Committee (CSMAC), an advisory group under the National Telecommunications and Information Administration (NTIA), has for the past few months been looking at some radical changes for future spectrum regulation, including [creating](https://www.ntia.gov/files/ntia/publications/spectrum_strategy_governance_briefing_012820.pdf) a new spectrum agency to address existing and future spectrum strategies, allocations, and management.

@@ -2,7 +2,7 @@
 layout: post
 title: DoT Issues Strategic Plan 2020-2025
 categories: Regulatory/Policy
-comments_id: 18
+comments_id: 4
 ---
 
 In March 2020, the Department of Transportation ("DoT") released its Intelligent Transportation System (ITS), Joint Program Office (JPO) [strategic plan](https://www.its.dot.gov/stratplan2020/ITSJPO_StrategicPlan_2020-2025.pdf) for 2020 through 2025.  The plan describes the vision, mission, strategies, and research goals that will guide the ITS JPO in meeting key priorities.  

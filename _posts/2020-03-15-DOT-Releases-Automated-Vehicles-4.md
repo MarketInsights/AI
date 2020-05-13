@@ -2,7 +2,7 @@
 layout: post
 title: DOT Releases Automated Vehicles 4.0
 categories: Regulatory/Policy
-comments_id: 11
+comments_id: 1
 ---
 
 On January 8, 2020, the U.S. Department of Transportation (“DoT”) and National Science & Technology Council (“NSTC”) released the fourth version of its Automated Vehicles series [“Ensuring American Leadership in Automated Vehicle Technologies: Automated Vehicles 4.0 ("AV4.0")](https://www.transportation.gov/av/4).”
