@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DoT Issues Strategic Plan 2020-2025
+title: USDOT Issues Strategic Plan 2020-2025
 categories: Regulatory/Policy
 comments_id: 4
 ---

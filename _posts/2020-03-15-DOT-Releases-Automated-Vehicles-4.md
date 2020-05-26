@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DOT Releases Automated Vehicles 4.0
+title: USDOT Releases Automated Vehicles 4.0
 categories: Regulatory/Policy
 comments_id: 1
 ---
